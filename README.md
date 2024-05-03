@@ -23,4 +23,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<img height = "300" width = "800" src = "https://github.com/V1N015/V1N015/blob/main/unohana-5.gif">
+<img height = "300" width = "850" src = "https://github.com/V1N015/V1N015/blob/main/unohana-5.gif">
