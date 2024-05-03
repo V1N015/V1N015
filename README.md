@@ -10,5 +10,5 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=V1N015&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=V1N015&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=V1N015&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=V1N015&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <img height = "300" width = "300" src ="https://github.com/V1N015/V1N015/blob/main/unohana-1.jpeg">
 
