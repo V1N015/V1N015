@@ -1,12 +1,6 @@
 <img align = "center" alt = "random" height = "320" width = "850" src = "https://github.com/V1N015/V1N015/blob/main/unohana-yachiru.gif">
 
-<h1 align = "center">Hi <img height = "40" width = "40" src = "https://github.com/V1N015/V1N015/blob/main/waving-hand-joypixels.gif"> My name is VIn</h1> 
-<a href="https://www.linkedin.com/in/calvin-rivarez-423234246/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/24856919/calvin-rivarez?tab=profile" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
+<h1 align = "center">Hi <img height = "40" width = "40" src = "https://github.com/V1N015/V1N015/blob/main/waving-hand-joypixels.gif"> My name is VIn </h1> 
 <h2 align = "center">3rd year Computer Science Student</h2>
 
 
@@ -18,6 +12,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=V1N015&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <img height = "190" width = "200" src ="https://github.com/V1N015/V1N015/blob/main/unohana-1.jpeg"><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=V1N015&theme=dark&hide_border=false) <img height = "190" width = "200" src ="https://github.com/V1N015/V1N015/blob/main/git%20profile.jpeg"><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=V1N015&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+
+<a href="https://www.linkedin.com/in/calvin-rivarez-423234246/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/24856919/calvin-rivarez?tab=profile" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  </a>
 
 
 
