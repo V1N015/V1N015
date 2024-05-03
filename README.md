@@ -1,8 +1,6 @@
 <img align = "center" alt = "random" height = "320" width = "850" src = "https://github.com/V1N015/V1N015/blob/main/unohana-yachiru.gif">
 
-<h1 align = "center">Hi![wave](https://github.com/V1N015/V1N015/assets/103891895/6d1f15d7-0f4e-4149-ad3c-62e4bf60deeb)
-  My name is VIn
-===========================================================================================================================</h1>
+<h1 align = "center">Hi My name is VIn</h1>
 <h2 align = "center">3rd year Computer Science Student</h2>
 
 
