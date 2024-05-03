@@ -1,7 +1,7 @@
 <img align = "center" alt = "random" height = "320" width = "850" src = "https://github.com/V1N015/V1N015/blob/main/unohana-yachiru.gif">
 
 <h1 align = "center">Hi <img height = "40" width = "40" src = "https://github.com/V1N015/V1N015/blob/main/waving-hand-joypixels.gif"> My name is VIn </h1> 
-<h3 align = "center"><img height = "40" width = "40" src = "https://github.com/V1N015/V1N015/blob/main/computer.gif">3rd year Computer Science Student Specialized in Digital Forensic <br>I’m currently learning ethical hacking and other stuff regarding to cybersec<br>Fun fact about me is that I love to accomplish a one man task 1-2 days before the deadline<br></h3>
+<h3 align = "center"><img height = "40" width = "40" src = "https://github.com/V1N015/V1N015/blob/main/computer.gif"> 3rd year Computer Science Student Specialized in Digital Forensic <br>I’m currently learning ethical hacking and other stuff regarding to cybersec<br>Fun fact about me is that I love to accomplish a one man task 1-2 days before the deadline<br></h3>
 
 
 <img height = "650" width = "400" src ="https://github.com/V1N015/V1N015/blob/main/unohana-2.jpeg"> <img height = "650" width = "400" src = "https://github.com/V1N015/V1N015/blob/main/profile-1.jpeg">
