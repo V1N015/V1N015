@@ -1,6 +1,6 @@
 <img align = "center" alt = "random" height = "320" width = "850" src = "https://github.com/V1N015/V1N015/blob/main/unohana-yachiru.gif">
 
-<h1 align = "center">Hi My name is VIn</h1> <img height = "20" width = "20" src>
+<h1 align = "center">Hi <img height = "20" width = "20" src = "https://github.com/V1N015/V1N015/blob/main/waving-hand-joypixels.gif"> My name is VIn</h1> 
 <h2 align = "center">3rd year Computer Science Student</h2>
 
 
