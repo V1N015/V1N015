@@ -13,3 +13,19 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=V1N015&theme=dark&hide_border=false) <img height = "190" width = "200" src ="https://github.com/V1N015/V1N015/blob/main/git%20profile.jpeg"><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=V1N015&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/calvin-rivarez-423234246/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/24856919/calvin-rivarez?tab=profile" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/V1N015/V1N015/output/snake.svg" alt="Snake animation" />
+
+###
+
