@@ -1,4 +1,5 @@
-<img align = "center" alt = "random" height = "300" width = "800" src = "" >
+<img align = "center" alt = "random" height = "300" width = "800" src = "https://github.com/V1N015/V1N015/assets/103891895/7818b325-1610-4936-8fb3-0538a02076d7"
+>
 
 <h1 align = "center">Hi 👋 My name is Vin</h1>
 <h2 align = "center">3rd year Computer Science Student</h2>
